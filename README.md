@@ -1,4 +1,4 @@
-# 🎮 Sentiment Analysis and Natural Language Processing for Marketing 🚀
+# 🎮 Feedback Sentiment Analysis and Natural Language Processing for Marketing 🚀
 
 Welcome to the **Sentiment Analysis and Natural Language Processing for Marketing** project! This project simulates the role of an NLP Specialist on a Growth Hacking Team, focusing on analyzing Amazon reviews for video games to understand customer sentiment. 
 
